@@ -1,6 +1,6 @@
 ### Hi there 👋, Vraj Patel
 
-![](https://pbs.twimg.com/media/E497v8uVEAIfZ6y?format=jpg&name=small)
+<!-- ![](https://pbs.twimg.com/media/E497v8uVEAIfZ6y?format=jpg&name=small) -->
 
 I'm Vraj Patel. Currently I'm pursuing Diploma in Computer Science from K.D. Polytechnic, Gujarat. I like to learn new computer programming languages. I love to travel and to visit new places. I love to learn about new technologies which will be helpful for us.</p>
 
