@@ -19,7 +19,7 @@ Currently I am a computer science student in Gujarat Technological University. I
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vraj-patel-16544824a))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vrajsp)
 [![github](https://img.shields.io/badge/github-2b2b2b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vrajpatel01)
 [![facebook](https://img.shields.io/badge/facebook-14a3fb?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/vrajpatel05)
 [![instagram](https://img.shields.io/badge/instagram-a529a4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vraj30)
