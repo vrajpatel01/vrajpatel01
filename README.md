@@ -1,6 +1,8 @@
 # Hi, I'm Vraj! 👋
 
-Currently I am a computer science student in Gujarat Technological University. I love developing something new, learning a brand new programming language, developing something unique to help us in our daily lives.
+Building functional web experiences is my ultimate passion, achieved through the power of full-stack development. I'm fluent in all basic languages link c, java, js, dart etc and frameworks like TailwindCSS, Express, NextJs. My skills extend beyond the web-development, as I'm also proficient in database design.
+
+As a Flutter developer, I'm passionate about crafting user-centric experiences and pushing the boundaries of mobile app development. Whether it's crafting user-friendly interfaces (UI) or ensuring a seamless user experience (UX). When I'm not coding, I'm probably brainstorming new project ideas or participating in hackathons. Let's connect and build something awesome!
 
 ## A passionate web-developer and web-designer from India
 
